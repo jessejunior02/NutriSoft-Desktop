@@ -1,0 +1,12 @@
+# Ignorar arquivos e pastas de IDE
+.classpath
+.project
+.settings/
+
+# Ignorar binários e arquivos compilados
+/bin/
+*.class
+
+# Ignorar logs e temporários
+*.log
+*.tmp
