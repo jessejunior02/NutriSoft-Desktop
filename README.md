@@ -37,13 +37,13 @@ cd NutriSoft-Desktop
 ```
 
 ### **2. Compilar o Projeto**
-Abra o projeto na sua IDE preferida ou compile manualmente usando o terminal:
+Abra o projeto na sua IDE preferida **ou** compile manualmente usando o terminal:
 ```bash
 javac -d bin src/**/*.java
 ```
 
 ### **3. Executar a Aplicação**
-Navegue até a pasta `bin` e execute a aplicação:
+Navegue até a pasta `NutriSoft` e execute a aplicação:
 ```bash
 java -cp bin src.Main
 ```
