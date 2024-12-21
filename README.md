@@ -23,7 +23,7 @@
 ## **Pré-requisitos**
 Para rodar o projeto localmente, é necessário ter instalado:
 - Java JDK 11 ou superior.
-- IDE (recomendado: NetBeans Apache) ou um editor de texto com suporte a Java.
+- IDE (recomendado: Eclipse) ou um editor de texto com suporte a Java.
 - Git (para clonar o repositório).
 
 ---
